@@ -1,0 +1,29 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary Files
+*.tmp
+*.bak
+*.log
+
+# Windows Shortcuts
+*.lnk
+*.url
+
+# Local Testing
+START-HERE.bat
+OPEN-APP.vbs
+README-START.txt
+
+# User Data (localStorage backup)
+backup-*.json
+*.backup
